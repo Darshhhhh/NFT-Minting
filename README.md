@@ -11,4 +11,16 @@ npx hardhat run scripts/sample-script.js --network localhost
 
 # terminal 3 
 npm run dev
+
+# BCDV4028-Lab-2
+Student ID : 101452662 , Name  : Darsh Bhavinkumar Shah
+
+## Screenshots
+![IPFS_HASH](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/PintaUpload.png)
+![IPFS_HASH](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/Screenshot_1.png)
+![DeployedContract](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/deployed%20contract.png)
+![Test-Case](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/Test%20Case.png)
+![Deployed Files](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/files.png)
+
+
 ```
