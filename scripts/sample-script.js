@@ -14,7 +14,7 @@ async function main() {
   // await hre.run('compile');
 
   // We get the contract to deploy
-  const FiredGuys = await hre.ethers.getContractFactory("Darsh");
+  const FiredGuys = await hre.ethers.getContractFactory("FiredGuys");
   const firedGuys = await FiredGuys.deploy();
 
   await firedGuys.deployed();

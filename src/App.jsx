@@ -1,7 +1,7 @@
 import Install from "./components/Install";
 import Home from "./components/Home";
 import FileUpload from "./components/UploadFile";
-//0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 deployed Contract
+//0x09180239838a3ce0c4e1e8afa699670218d55262 deployed Contract
 function App() {
   if (window.ethereum) {
     return <FileUpload />;

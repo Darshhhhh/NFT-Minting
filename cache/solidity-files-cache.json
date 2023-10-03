@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\contracts\\MyNFT.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\contracts\\MyNFT.sol": {
       "lastModificationDate": 1696316607637,
       "contentHash": "2df87602db68214a4f1a3b4acede17af",
       "sourceName": "contracts/MyNFT.sol",
@@ -41,7 +41,7 @@
         "FiredGuys"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\ERC721.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\ERC721.sol": {
       "lastModificationDate": 1696316674059,
       "contentHash": "ead7082e39cf31875ff89b22f473500d",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
@@ -84,7 +84,7 @@
         "ERC721"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\ERC721URIStorage.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\ERC721URIStorage.sol": {
       "lastModificationDate": 1696316674263,
       "contentHash": "580a443491d9d70eb064b0130fc3cd01",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
@@ -121,7 +121,7 @@
         "ERC721URIStorage"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
       "lastModificationDate": 1696316675418,
       "contentHash": "8398972af73b4e9e5ff3b31cad86234f",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
@@ -158,7 +158,7 @@
         "Ownable"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Counters.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\utils\\Counters.sol": {
       "lastModificationDate": 1696316672739,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
@@ -193,7 +193,7 @@
         "Counters"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721.sol": {
       "lastModificationDate": 1696316675029,
       "contentHash": "27d219ec6f69478d065fdbfa7931da68",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
@@ -230,7 +230,7 @@
         "IERC721"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721Receiver.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721Receiver.sol": {
       "lastModificationDate": 1696316675134,
       "contentHash": "592df588492d45fdcf46b3cb608c0fbf",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
@@ -265,7 +265,7 @@
         "IERC721Receiver"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\IERC721Metadata.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\IERC721Metadata.sol": {
       "lastModificationDate": 1696316675095,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
@@ -302,7 +302,7 @@
         "IERC721Metadata"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
       "lastModificationDate": 1696316672449,
       "contentHash": "4cff8b2ea0d958750786b4e3ca308445",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
@@ -337,7 +337,7 @@
         "Address"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
       "lastModificationDate": 1696316672686,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
@@ -372,7 +372,7 @@
         "Context"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
       "lastModificationDate": 1696316675897,
       "contentHash": "9c54c6c065d9e590fdcdd72c451425b9",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
@@ -407,7 +407,7 @@
         "Strings"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
       "lastModificationDate": 1696316673428,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
@@ -444,7 +444,7 @@
         "ERC165"
       ]
     },
-    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\web3-nft-dapp-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
+    "C:\\Users\\ADMIN\\Desktop\\NFT-mint\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
       "lastModificationDate": 1696316674807,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
