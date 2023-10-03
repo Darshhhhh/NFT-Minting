@@ -136,7 +136,7 @@ const FileUpload = () => {
               </button>
             )}
           </div>
-          <div className="d-flex gap-3  justify-content-center flex-wrap w-100">
+          <div className="d-flex gap-3 mt-5 justify-content-center flex-wrap w-100">
             {ShowData.map((data, idx) => {
               return (
                 <>
