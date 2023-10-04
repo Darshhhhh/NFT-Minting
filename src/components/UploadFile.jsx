@@ -7,7 +7,7 @@ import FiredGuys from "../artifacts/contracts/MyNFT.sol/FiredGuys.json";
 import $ from "jquery";
 import "../../src/App.css";
 const JWT = `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI5NDc5MjYzZi1hMWVlLTRiMzUtOTNkOS0wNmQzZTNmZTRmYTgiLCJlbWFpbCI6ImRhcnNoc2hhaDc0NzJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsInBpbl9wb2xpY3kiOnsicmVnaW9ucyI6W3siaWQiOiJGUkExIiwiZGVzaXJlZFJlcGxpY2F0aW9uQ291bnQiOjF9LHsiaWQiOiJOWUMxIiwiZGVzaXJlZFJlcGxpY2F0aW9uQ291bnQiOjF9XSwidmVyc2lvbiI6MX0sIm1mYV9lbmFibGVkIjpmYWxzZSwic3RhdHVzIjoiQUNUSVZFIn0sImF1dGhlbnRpY2F0aW9uVHlwZSI6InNjb3BlZEtleSIsInNjb3BlZEtleUtleSI6IjBjZTllZmVmMWM1ZTJlOGY0YzNhIiwic2NvcGVkS2V5U2VjcmV0IjoiZmZiZGFhZDNmZjliZGQ1ZmJlZTUxYWQxZGIxYjk4NmI0YjRmMmFkMzViZDU3ZjIzNmY0NWRiYzlhMmJhMzU0YyIsImlhdCI6MTY5NjMxNTE1MH0.jVLgTGw2gBSG1brIIal97FKBlDbJq6_AKA_Rnv5m9eE`;
-const contractAddress = "0x7b00C59c9E5F28067F3e49760010eF5A66C6aa28";
+const contractAddress = "0xCC92Ab43dF7ff5A8112a5cEBadEAA6aBf94E45d9";
 console.log("contractAddress = ", contractAddress);
 const provider = new ethers.providers.Web3Provider(window.ethereum);
 
@@ -86,9 +86,9 @@ const FileUpload = () => {
         successToast("Data fetched!");
         const filteredItems = response?.rows?.filter((fileName) => {
           // Check if the file name ends with ".jpg" (case-insensitive)
-          return fileName?.metadata?.name.toLowerCase().endsWith(".jpg");
+          return fileName?.metadata?.name.toLowerCase().endsWith(".jpg","");
         });
-        setShowData(filteredItems);
+        setShowData(response?.rows);
       })
       .catch((err) => console.error(err));
   };
