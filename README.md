@@ -16,8 +16,9 @@ npm run dev
 Student ID : 101452662 , Name  : Darsh Bhavinkumar Shah
 
 ## Screenshots
-
+For video click this link :
 https://github.com/Darshhhhh/NFT-Minting/assets/97779104/a58c6bfd-b35d-4e7f-b58d-1850429fcbf4
+----------------------------------------------------------------------------------------------------------------------------
 ![IPFS_HASH](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/PintaUpload.png)
 ![IPFS_HASH](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/Screenshot_1.png)
 ![DeployedContract](https://github.com/Darshhhhh/NFT-Minting/blob/main/Screenshots/deployed%20contract.png)
